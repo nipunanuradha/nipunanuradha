@@ -59,7 +59,7 @@ I’m a **passionate full-stack developer** who enjoys building scalable applica
 ## 🚀 Featured Projects
 
 🔹 **PLANTS VIEW** – AI-based Plant Identification & Care App  
-🔹 **TechHub** – Full-Stack E-commerce Platform  
+🔹 **Nextera Academy infomation web site and LMS system.** – Full-Stack E-commerce & Educational Platform  
 🔹 **3D Furniture Design Tool** – Python + OpenGL Desktop App  
 
 👉 *More projects available in my repositories*
