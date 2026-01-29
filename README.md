@@ -79,7 +79,7 @@ I’m a **passionate full-stack developer** who enjoys building scalable applica
 
 - 💼 LinkedIn: [anuradhaathukorala](https://linkedin.com/in/anuradhaathukorala)
 - 📧 Email: **anuradhanipun33@gmail.com**
-- YouTube: (https://www.youtube.com/@AthukoralaNipun)
+- 📺 YouTube: https://www.youtube.com/@AthukoralaNipun
 
 ---
 
