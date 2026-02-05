@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-I’m a **passionate full-stack developer** who enjoys building scalable applications, modern UIs, and AI-powered solutions.
+I'm a **passionate full-stack developer** who enjoys building scalable applications, modern UIs, and AI-powered solutions.
 
 - 🔭 Currently working on **Mobile Apps, Web Development & AI-based systems**
 - 🌱 Learning **Cloud Computing, DevOps & Advanced AI**
@@ -59,7 +59,7 @@ I’m a **passionate full-stack developer** who enjoys building scalable applica
 ## 🚀 Featured Projects
 
 🔹 **PLANTS VIEW** – AI-based Plant Identification & Care App  
-🔹 **Nextera Academy infomation web site and LMS system.** – Full-Stack E-commerce & Educational Platform  
+🔹 **Nextera Academy Information Website & LMS System** – Full-Stack Educational Platform  
 🔹 **3D Furniture Design Tool** – Python + OpenGL Desktop App  
 
 👉 *More projects available in my repositories*
@@ -69,8 +69,24 @@ I’m a **passionate full-stack developer** who enjoys building scalable applica
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nipunanuradha&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nipunanuradha&layout=compact&theme=tokyonight"/>
+<a href="https://github.com/nipunanuradha">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nipunanuradha&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nipunanuradha&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nipunanuradha&theme=algolia" alt="nipunanuradha's Graph"/>
+</p>
+
+---
+
+## 🏆 GitHub Profile Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nipunanuradha&theme=algolia" width="32%" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nipunanuradha&theme=algolia" width="32%" alt="Top Languages by Commit" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nipunanuradha&theme=algolia" width="32%" alt="Productive Time" />
 </p>
 
 ---
@@ -79,16 +95,17 @@ I’m a **passionate full-stack developer** who enjoys building scalable applica
 
 - 💼 LinkedIn: [anuradhaathukorala](https://linkedin.com/in/anuradhaathukorala)
 - 📧 Email: **anuradhanipun33@gmail.com**
-- 📺 YouTube: https://www.youtube.com/@AthukoralaNipun
+- 📺 YouTube: [AthukoralaNipun](https://www.youtube.com/@AthukoralaNipun)
 
 ---
 
 ## ✨ Fun Fact
 
-> *“Code is like humor. When you have to explain it, it’s bad.”* 😄
+> *"Code is like humor. When you have to explain it, it's bad."* 😄
 
 ---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
+```
