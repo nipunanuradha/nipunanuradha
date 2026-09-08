@@ -46,7 +46,7 @@ I'm a **passionate full-stack developer** who enjoys building scalable applicati
 
 ### 📱 Mobile Development
 <p>
-  <img src="https://skillicons.dev/icons?i=android,flutter,react"/>
+  <img src="https://skillicons.dev/icons?i=dart,flutter,react"/>
 </p>
 
 ### 🤖 AI & Tools
