@@ -87,7 +87,7 @@ I'm a **passionate full-stack developer** who enjoys building scalable applicati
       <img src="https://img.shields.io/badge/Mobile-02569B?style=flat-square&logo=flutter&logoColor=white"/>
     </td>
     <td width="33%" valign="top">
-      <h3>🎓 Nextera Academy</h3>
+      <h3>🎓 ICT Academy</h3>
       <p>Information website & LMS system — a full-stack educational platform.</p>
       <img src="https://img.shields.io/badge/Full--Stack-0A66C2?style=flat-square"/>
       <img src="https://img.shields.io/badge/LMS-2C5364?style=flat-square"/>
